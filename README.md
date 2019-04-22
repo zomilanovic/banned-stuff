@@ -1,4 +1,11 @@
-# soda-list
-List of sodas
+# Banned Stuff
+This repo contains creepy and / or gross stuff.
 
-github site on [github.io/soda-list](https://zomilanovic.github.io/soda-list/) 
+## Creepy Stuff
+
+- [Creepy Places](./creepy-places.md)
+
+## Gross Stuff
+
+- [Gross Sodas](./gross-soda.md)
+- [Gross Coffees](./gross-coffee.md)
