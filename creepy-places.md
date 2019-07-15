@@ -11,4 +11,4 @@
 
 # Dominican Republic
 
-- Hard Rock Cafe Hotel (all of them)
+- Hard Rock Cafe Hotel (all of them [1](https://www.hardrockhotelpuntacana.com/?utm_source=mybusiness&utm_medium=organic), [2](https://www.hardrockcafe.com/location/santo-domingo/) and [3](https://www.hardrockcafe.com/location/punta-cana/))
