@@ -8,3 +8,7 @@
 # Canada
 
 - [Fairmont Banff Springs Hotel](https://www.google.at/maps/place/Fairmont+Banff+Springs+Hotel/@51.1641223,-115.5649984,17z/data=!3m1!4b1!4m5!3m4!1s0x5370ca3b08ce22bb:0xf97b9a5c386d02aa!8m2!3d51.1641223!4d-115.5628097)
+
+# Dominican Republic
+
+- Hard Rock Cafe Hotel (all of them)
