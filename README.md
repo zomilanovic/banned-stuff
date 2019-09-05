@@ -9,3 +9,4 @@ This repo contains creepy and / or gross stuff.
 
 - [Gross Sodas](./gross-soda.md)
 - [Gross Coffees](./gross-coffee.md)
+- [Gross Food](./gross-food.md)
